@@ -48,7 +48,7 @@ $teamMembers = array(
 
 							);
 
-$menyItems = array(
+$menuItems = array(
 										"club-sandwich" =>array(
 													"title" => "Club Sandwich",
 													"price" => 11,
