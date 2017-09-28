@@ -48,7 +48,7 @@ $teamMembers = array(
 
 							);
 
-$menyItems = array(
+$menuItems = array(
 										"club-sandwich" =>array(
 													"title" => "Club Sandwich",
 													"price" => 11,
@@ -75,4 +75,24 @@ $menyItems = array(
 													"drink" => "water"
 											)
 									);
+
+$myArr = array(
+
+		"1" => array(
+
+			'name' => '1',
+			'type'	=> 'number'
+
+		),
+		"b" => array(
+			'name' => 'b',
+			'type' => 'letter'
+			),
+
+		"!" => array(
+			'name' => '!',
+			'type' => 'sign'
+			)
+	);
+
 ?>
