@@ -95,4 +95,6 @@ $myArr = array(
 			)
 	);
 
+$a = 'some text';
+
 ?>
